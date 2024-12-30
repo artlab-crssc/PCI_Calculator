@@ -1,5 +1,5 @@
 # PCI Calculator
-Printing Configuration Index Calculator by ART Lab,Community Rehabiliation Service Support Centre, Hospital Authority
+Printing Consideration Index Calculator by ART Lab,Community Rehabiliation Service Support Centre, Hospital Authority
 
 ---------------------------------------------------
 Publication:
