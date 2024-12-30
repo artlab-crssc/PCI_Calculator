@@ -8,6 +8,6 @@ Poster Download:
 https://sciforum.net/manuscripts/21124/slides.pdf
 
 For further enquiry, please contact:
-Mr. Yu: ykp587@ha.org.hk
+Mr. Jason Yu: ykp587@ha.org.hk
 ART Lab: crssc.atlab@gmail.com
-Mr. Chan: ben.cc.chan@ha.org.hk
+Ben Chan: ben.cc.chan@ha.org.hk
