@@ -1,4 +1,4 @@
-# PCI_Calculator
+# PCI Calculator
 Printing Configuration Index Calculator by ART Lab,CRSSC
 
 Publication:
@@ -6,3 +6,8 @@ YU, K.; Tsoi, K.; Yeung, T.; Ng, R.; Chan, K.; Chan, C. Exploring the Trade-off 
 
 Poster Download:
 https://sciforum.net/manuscripts/21124/slides.pdf
+
+For further enquiry, please contact:
+Mr. YU: ykp587@ha.org.hk
+ART Lab: crssc.atlab@gmail.com
+Mr. Chan: ben.cc.chan@ha.org.hk
